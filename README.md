@@ -9,4 +9,4 @@ Sequential operation handling
 Responsive UI with input buttons and display area
 Error handling for division by zero and other edge cases
 Technologies Used:
-React Native, TypeScript , Expo (if using Expo), TypeScript for logic
+React Native, TypeScript , Expo, TypeScript for logic
